@@ -1,0 +1,20 @@
+{
+  "name": "angular2-to-do",
+  "description": "",
+  "main": "",
+  "authors": [
+    "Liam Stabeno <liamstabeno@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/MLiamS/td-ts",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
